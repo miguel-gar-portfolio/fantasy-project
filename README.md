@@ -1,0 +1,1 @@
+As a mean for the application of my knowledge in Power BI, I took on this project, to analise the data of the players in the app and support decision making with the conclussions derived from the visualization of data.
